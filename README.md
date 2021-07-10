@@ -4,6 +4,7 @@
 
 - 🎓 &nbsp; Studying Web Application and Cloud Developer at Edmonds College.
 - 💼 &nbsp; Completed 19 weeks coding bootcamp.
+- ✍️ &nbsp; Exploring new technologies, developing software solutions, and playing music as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
